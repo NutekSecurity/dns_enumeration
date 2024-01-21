@@ -19,7 +19,7 @@ python3 dns_enumaration.py <domain/ip>
 
 ## Example
 
-[nutek.neosb.net](https://europe-central2-shadow-thief.cloudfunctions.net/dns_enumeration/?name=nutek.neosb.net)
+[nutek.neosb.net](https://europe-central2-shadow-thief.cloudfunctions.net/dns_enumeration/?name=nuteksecurity.com)
 
 ## License
 
